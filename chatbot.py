@@ -22,7 +22,7 @@ convo = [
     "Thank you.",
     "You're welcome.",
     "okay, bye",
-    "see you then"
+    "see you then",
 
 ]
 
